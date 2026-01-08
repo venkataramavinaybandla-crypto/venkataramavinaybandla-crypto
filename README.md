@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Computer Science student with a strong interest in programming, problem-solving, and emerging technologies. I enjoy building practical projects while continuously improving my understanding of core concepts in software development.<br><br>Currently, I am focused on strengthening my skills in Python and exploring areas such as artificial intelligence and machine learning. I believe in learning by building, experimenting, and refining ideas into efficient solutions.<br><br>I am always eager to learn, collaborate, and grow as a developer.
 
 
