@@ -1,79 +1,147 @@
-## 👋 About Me
+<div align="center">
 
-I am a Computer Science student with a strong interest in programming, problem-solving, and emerging technologies. I enjoy building practical projects while strengthening my understanding of core concepts in software development.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI%2FML)+%40+KL+University;Learning+the+math+beneath+the+APIs;Building+first%2C+understanding+second... no%2C+wait%2C+first.;Aspiring+AI+Research+Scientist" alt="Typing SVG" />
 
-Currently, I am focused on Python-based development and exploring areas such as artificial intelligence and machine learning. I believe in learning by building, experimenting, and refining ideas into efficient, real-world solutions.
+</div>
 
-I am always eager to learn, collaborate, and grow as a developer.
+<br>
 
-🔭 Currently working on full-stack and AI-driven projects to strengthen real-world problem-solving skills.
+## → About
 
----
+I'm **Vinay** — a Computer Science (AI/ML) undergrad at **KL University, Hyderabad**. My coursework spans CSE core, ECE/IoT, and ML tracks.
 
-## 🛠️ Tech Stack
+I'm not trying to collect frameworks for a badge wall. I'm trying to understand what's actually happening under the hood of the systems everyone's calling "AI" — the math, the training loops, the architectures — not just the `import` statement. My long-term goal is to work as an **AI Research Scientist** at a frontier AI lab. That's the destination, not a job title I'm claiming yet — I'm still on the road, building the foundations to get there.
 
-### 💻 Languages & Core
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+Right now that looks like: real projects (some finished, some mid-build), coursework I take seriously, hackathons I show up to, and one half-formed research idea I keep circling back to.
 
----
+<br>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## → What I'm Actually Building With
 
----
+These are tools I use hands-on — in projects, in coursework, day to day.
 
-### ⚙️ Backend & APIs
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/WSL2%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🗄️ Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+</div>
 
----
+**Also in active use:** NumPy · Node.js · REST API design & consumption · PyCharm · yt-dlp-based media pipelines · Wokwi (embedded simulation)
 
-### 🧠 AI / ML
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+<br>
 
----
+## → What I'm Currently Learning / Experimenting With
 
-### 🚀 DevOps, Testing & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
+Not claiming mastery here — this is the "in the lab, hands dirty" list. PyTorch, TensorFlow/JAX, Transformer architectures, Reinforcement Learning, LLM experimentation, RAG pipelines, and the underlying math: linear algebra, probability & statistics, and ML theory. I work through Deep-ML problems regularly to force concept → code translation instead of copy-pasting solutions.
 
----
+<br>
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=venkataramavinaybandla-crypto&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=venkataramavinaybandla-crypto&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkataramavinaybandla-crypto&theme=dark&layout=compact)
+## → Featured Work
 
----
+Real projects. Real status. No inflated numbers.
 
-![](https://visitcount.itsvg.in/api?id=venkataramavinaybandla-crypto&icon=0&color=0)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 CAS — Citation Analysis System
+My DSA-3 course project. Built against a full 12-phase build plan including a web delivery layer, shipped in phases via direct GitHub pushes.
+
+**Status:** `319/319 tests passing`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 Eye of Odin
+Hackathon build — a campus lost-and-found tracker using CLIP embeddings + cosine similarity for visual matching. FastAPI/SQLite/SQLAlchemy backend, Norse-mythology-themed README.
+
+**Status:** `20/20 tests passing`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Stream_Press
+A yt-dlp-based media extraction app built in FastAPI + vanilla JS. Fixed platform-specific extraction bugs across Facebook, Reddit, Vimeo, Twitch, and Dailymotion.
+
+**Milestone:** my first GitHub pull request, made with guidance.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎧 Android YouTube Audio Streaming App
+Personal Android project built off a detailed adversarial build plan — designed to stress-test my own assumptions at every stage. Five iterative review rounds in, structurally complete.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 ARK Chronicles / ARK-Frontend
+Frontend contributions to a friend's startup site, plus a personal component bundle repo — **30 pages** and **12 components** verified for integrity.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ BLOCKHACK 2026
+Algorand / AlgoKit / x402 hackathon at KLH Bachupally. Set up a full WSL2 AlgoKit dev environment and worked through security triage on an x402 implementation.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## → Research Direction (Exploratory — Not Published)
+
+I want to be upfront about what stage this is at: **exploration and drafting**, not peer-reviewed output.
+
+- **Tensor-network compression for illumination-robust CV** — a research paper *concept* I'm developing, combining quantum-inspired tensor network compression (currently pivoted toward Tensor-Train/Ring methods) with computer vision robustness under variable lighting. Still shaping the framing, not written up.
+- **Review paper — "A Review of Technology Developments in Self-Evolving AI Agents"** — prepared for academic submission: structural editing, citation fixes, Springer Nature formatting. Submission-track, not a publication yet.
+- **DAS-HDPP** — a theoretical transformer-augmentation framework I sketched out, drawing from general relativity and nonlinear optics concepts. Early-stage and speculative — a thinking exercise, not a validated architecture.
+
+<br>
+
+## → Currently Also On My Plate
+
+Coursework and deliverables I'm actively grinding through: an **IoT project** (pivoted from STM32 Blue Pill to Industrial Sensor Monitoring with ESP32-S3, prototyping in Wokwi), **DSA-2 Java case studies**, an **ML course project** (multinomial logistic regression for match prediction), and a **multi-agent competitive resource-allocation game** built for a CFAI mini-project viva.
+
+I also run a personal multi-agent workflow — Claude, ChatGPT, Antigravity, and DeepSeek — where each tool is scoped to a specific role rather than used interchangeably.
+
+<br>
+
+## → GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=venkataramavinaybandla-crypto&theme=tokyonight&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkataramavinaybandla-crypto&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+<br>
+
+## → Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</div>
+
+<div align="center">
+<sub>Undergrad years, spent building foundations — not shortcuts.</sub>
+</div>
