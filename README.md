@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./terminal-banner.svg" width="100%" alt="terminal banner"/>
+<img src="./assets/hero-grid.svg" width="100%" alt="vinay bandla"/>
 
 </div>
 
 <br>
 
-## → About
+<img src="./assets/divider-about_me.svg" width="100%" alt="about me"/>
 
 I'm **Vinay** — a Computer Science (AI/ML) undergrad at **KL University, Hyderabad**. My coursework spans CSE core, ECE/IoT, and ML tracks.
 
@@ -16,9 +16,9 @@ Right now that looks like: real projects (some finished, some mid-build), course
 
 <br>
 
-## → What I'm Actually Building With
+<img src="./assets/divider-tech_stack.svg" width="100%" alt="tech stack"/>
 
-These are tools I use hands-on — in projects, in coursework, day to day.
+**Actually building with** — tools I use hands-on, in projects, in coursework, day to day:
 
 <div align="center">
 
@@ -39,15 +39,11 @@ These are tools I use hands-on — in projects, in coursework, day to day.
 
 **Also in active use:** NumPy · Node.js · REST API design & consumption · PyCharm · yt-dlp-based media pipelines · Wokwi (embedded simulation)
 
-<br>
-
-## → What I'm Currently Learning / Experimenting With
-
-Not claiming mastery here — this is the "in the lab, hands dirty" list. PyTorch, TensorFlow/JAX, Transformer architectures, Reinforcement Learning, LLM experimentation, RAG pipelines, and the underlying math: linear algebra, probability & statistics, and ML theory. I work through Deep-ML problems regularly to force concept → code translation instead of copy-pasting solutions.
+**Currently learning / experimenting with** — not claiming mastery, this is the hands-dirty list: PyTorch, TensorFlow/JAX, Transformer architectures, Reinforcement Learning, LLM experimentation, RAG pipelines, and the underlying math — linear algebra, probability & statistics, ML theory. I work through Deep-ML problems regularly to force concept → code translation instead of copy-pasting solutions.
 
 <br>
 
-## → Featured Work
+<img src="./assets/divider-featured_work.svg" width="100%" alt="featured work"/>
 
 Real projects. Real status. No inflated numbers.
 
@@ -55,7 +51,7 @@ Real projects. Real status. No inflated numbers.
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 CAS — Citation Analysis System
+### CAS — Citation Analysis System
 My DSA-3 course project. Built against a full 12-phase build plan including a web delivery layer, shipped in phases via direct GitHub pushes.
 
 **Status:** `319/319 tests passing`
@@ -63,7 +59,7 @@ My DSA-3 course project. Built against a full 12-phase build plan including a we
 </td>
 <td width="50%" valign="top">
 
-### 🧭 Eye of Odin
+### Eye of Odin
 Hackathon build — a campus lost-and-found tracker using CLIP embeddings + cosine similarity for visual matching. FastAPI/SQLite/SQLAlchemy backend, Norse-mythology-themed README.
 
 **Status:** `20/20 tests passing`
@@ -73,7 +69,7 @@ Hackathon build — a campus lost-and-found tracker using CLIP embeddings + cosi
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 Stream_Press
+### Stream_Press
 A yt-dlp-based media extraction app built in FastAPI + vanilla JS. Fixed platform-specific extraction bugs across Facebook, Reddit, Vimeo, Twitch, and Dailymotion.
 
 **Milestone:** my first GitHub pull request, made with guidance.
@@ -81,7 +77,7 @@ A yt-dlp-based media extraction app built in FastAPI + vanilla JS. Fixed platfor
 </td>
 <td width="50%" valign="top">
 
-### ⚡ BLOCKHACK 2026
+### BLOCKHACK 2026
 Algorand / AlgoKit / x402 hackathon at KLH Bachupally. Set up a full WSL2 AlgoKit dev environment and worked through security triage on an x402 implementation.
 
 </td>
@@ -90,7 +86,7 @@ Algorand / AlgoKit / x402 hackathon at KLH Bachupally. Set up a full WSL2 AlgoKi
 
 <br>
 
-## → Research Direction (Exploratory — Not Published)
+<img src="./assets/divider-research_status.svg" width="100%" alt="research status"/>
 
 I want to be upfront about what stage this is at: **exploration and drafting**, not peer-reviewed output.
 
@@ -100,7 +96,7 @@ I want to be upfront about what stage this is at: **exploration and drafting**, 
 
 <br>
 
-## → Currently Also On My Plate
+<img src="./assets/divider-currently.svg" width="100%" alt="currently"/>
 
 Coursework and deliverables I'm actively grinding through: an **IoT project** (pivoted from STM32 Blue Pill to Industrial Sensor Monitoring with ESP32-S3, prototyping in Wokwi), **DSA-2 Java case studies**, an **ML course project** (multinomial logistic regression for match prediction), and a **multi-agent competitive resource-allocation game** built for a CFAI mini-project viva.
 
@@ -108,7 +104,7 @@ I also run a personal multi-agent workflow — Claude, ChatGPT, Antigravity, and
 
 <br>
 
-## → GitHub Stats
+<img src="./assets/divider-github_stats.svg" width="100%" alt="github stats"/>
 
 <div align="center">
 
@@ -120,5 +116,9 @@ I also run a personal multi-agent workflow — Claude, ChatGPT, Antigravity, and
 <br>
 
 <div align="center">
+
+**→ [play with the live interactive version of this grid ↗](https://claude.ai/artifact/2rP2Je65vtNCJbhoZWSzPN)**
+
 <sub>Undergrad years, spent building foundations — not shortcuts.</sub>
+
 </div>
