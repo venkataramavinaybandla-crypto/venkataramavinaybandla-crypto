@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Vinay%20Bandla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(AI%2FML)%20%40%20KL%20University&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Learning+the+math+beneath+the+APIs;Building+real+things%2C+one+phase+at+a+time;Aspiring+AI+Research+Scientist" alt="Typing SVG" />
+<img src="./assets/terminal-banner.svg" width="100%" alt="terminal banner"/>
 
 </div>
 
@@ -79,20 +77,6 @@ Hackathon build — a campus lost-and-found tracker using CLIP embeddings + cosi
 A yt-dlp-based media extraction app built in FastAPI + vanilla JS. Fixed platform-specific extraction bugs across Facebook, Reddit, Vimeo, Twitch, and Dailymotion.
 
 **Milestone:** my first GitHub pull request, made with guidance.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎧 Android YouTube Audio Streaming App
-Personal Android project built off a detailed adversarial build plan — designed to stress-test my own assumptions at every stage. Five iterative review rounds in, structurally complete.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 ARK Chronicles / ARK-Frontend
-Frontend contributions to a friend's startup site, plus a personal component bundle repo — **30 pages** and **12 components** verified for integrity.
 
 </td>
 <td width="50%" valign="top">
