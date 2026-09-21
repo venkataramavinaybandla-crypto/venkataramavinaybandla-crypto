@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI%2FML)+%40+KL+University;Learning+the+math+beneath+the+APIs;Building+first%2C+understanding+second... no%2C+wait%2C+first.;Aspiring+AI+Research+Scientist" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Vinay%20Bandla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(AI%2FML)%20%40%20KL%20University&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Learning+the+math+beneath+the+APIs;Building+real+things%2C+one+phase+at+a+time;Aspiring+AI+Research+Scientist" alt="Typing SVG" />
 
 </div>
 
@@ -132,15 +134,6 @@ I also run a personal multi-agent workflow — Claude, ChatGPT, Antigravity, and
 </div>
 
 <br>
-
-## → Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</div>
 
 <div align="center">
 <sub>Undergrad years, spent building foundations — not shortcuts.</sub>
