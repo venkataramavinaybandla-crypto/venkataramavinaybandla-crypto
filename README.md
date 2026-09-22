@@ -1,84 +1,121 @@
 <div align="center">
 
-<img src="./assets/hero-grid.svg" width="100%" alt="vinay bandla"/>
+# Hey, I'm Vinay 👋
+
+### Aspiring AI Research Scientist · B.Tech CSE (AI/ML), KL University, Hyderabad
+
+*Building the mathematical, algorithmic, and systems foundations for frontier AI — one experiment at a time.*
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vinay&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </div>
 
 <br>
 
-<img src="./assets/divider-about_me.svg" width="100%" alt="about me"/>
+## 🧠 About Me
 
-I'm **Vinay** — a Computer Science (AI/ML) undergrad at **KL University, Hyderabad**. My coursework spans CSE core, ECE/IoT, and ML tracks.
+I'm not here to just call AI APIs — I want to know what's happening underneath: the mathematics, the algorithms, the architectures, the training loops, the engineering trade-offs. My goal is to become an **AI Research Scientist** at a frontier AI lab, and I'm spending my undergraduate years building the fundamentals that path actually requires.
 
-I'm not trying to collect frameworks for a badge wall. I'm trying to understand what's actually happening under the hood of the systems everyone's calling "AI" — the math, the training loops, the architectures — not just the `import` statement. My long-term goal is to work as an **AI Research Scientist** at a frontier AI lab. That's the destination, not a job title I'm claiming yet — I'm still on the road, building the foundations to get there.
+```python
+class Vinay:
+    def __init__(self):
+        self.field       = "Artificial Intelligence & Machine Learning"
+        self.focus       = ["Deep Learning", "LLMs", "Reinforcement Learning", "Mathematical Foundations"]
+        self.philosophy  = "Understand the concept, then implement it — never skip to the answer."
+        self.goal        = "AI Research Scientist @ a frontier AI lab"
 
-Right now that looks like: real projects (some finished, some mid-build), coursework I take seriously, hackathons I show up to, and one half-formed research idea I keep circling back to.
+    def is_currently(self):
+        return "building real systems, not toy projects 🔧"
+```
 
 <br>
 
-<img src="./assets/divider-tech_stack.svg" width="100%" alt="tech stack"/>
-
-**Actually building with** — tools I use hands-on, in projects, in coursework, day to day:
+## ⚙️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-6A5ACD?style=for-the-badge)
+
+**Systems & Tools**
+
+![Linux](https://img.shields.io/badge/Linux%2FWSL-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/WSL2%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
-**Also in active use:** NumPy · Node.js · REST API design & consumption · PyCharm · yt-dlp-based media pipelines · Wokwi (embedded simulation)
-
-**Currently learning / experimenting with** — not claiming mastery, this is the hands-dirty list: PyTorch, TensorFlow/JAX, Transformer architectures, Reinforcement Learning, LLM experimentation, RAG pipelines, and the underlying math — linear algebra, probability & statistics, ML theory. I work through Deep-ML problems regularly to force concept → code translation instead of copy-pasting solutions.
-
 <br>
 
-<img src="./assets/divider-featured_work.svg" width="100%" alt="featured work"/>
-
-Real projects. Real status. No inflated numbers.
+## 🚀 Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### CAS — Citation Analysis System
-My DSA-3 course project. Built against a full 12-phase build plan including a web delivery layer, shipped in phases via direct GitHub pushes.
+### 🎬 Stream_Press
+**yt-dlp-powered media extraction engine**
 
-**Status:** `319/319 tests passing`
+Built with **FastAPI + vanilla JS**. Went deep into platform-specific edge cases — shipped fixes for Facebook, Reddit, Vimeo, Twitch, and Dailymotion extraction bugs.
+
+> 📌 *My first-ever GitHub pull request was made here — the project that taught me real open-source contribution workflow.*
+
+`FastAPI` `yt-dlp` `JavaScript` `Open Source`
 
 </td>
 <td width="50%" valign="top">
 
-### Eye of Odin
-Hackathon build — a campus lost-and-found tracker using CLIP embeddings + cosine similarity for visual matching. FastAPI/SQLite/SQLAlchemy backend, Norse-mythology-themed README.
+### 📊 CAS — Citation Analysis System
+**Full-scale DSA project, executed like production software**
 
-**Status:** `20/20 tests passing`
+Architected and delivered against a complete **12-phase build plan**, including a full web delivery layer. Every phase shipped as a real GitHub push.
+
+> ✅ **319 / 319 tests passing**
+
+`Data Structures & Algorithms` `System Design` `Testing`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Stream_Press
-A yt-dlp-based media extraction app built in FastAPI + vanilla JS. Fixed platform-specific extraction bugs across Facebook, Reddit, Vimeo, Twitch, and Dailymotion.
+### 🦉 Eye of Odin
+**Campus lost-and-found tracker, powered by vision embeddings**
 
-**Milestone:** my first GitHub pull request, made with guidance.
+Built at a hackathon using **CLIP embeddings + cosine similarity** for visual item matching, on a **FastAPI / SQLite / SQLAlchemy** backend — framed end-to-end around Norse mythology.
+
+> ✅ **20 / 20 tests passing** · Full README with mythological worldbuilding
+
+`CLIP` `Computer Vision` `FastAPI` `SQLAlchemy`
 
 </td>
 <td width="50%" valign="top">
 
-### BLOCKHACK 2026
-Algorand / AlgoKit / x402 hackathon at KLH Bachupally. Set up a full WSL2 AlgoKit dev environment and worked through security triage on an x402 implementation.
+### ⛓️ BLOCKHACK 2026
+**Algorand hackathon — AlgoKit / x402**
+
+Stood up a full **WSL2 + AlgoKit** dev environment from scratch and shipped an **x402** implementation, hardened through a real security triage process on flagged code.
+
+> 🔐 Security-reviewed implementation
+
+`Algorand` `AlgoKit` `x402` `Blockchain`
 
 </td>
 </tr>
@@ -86,30 +123,48 @@ Algorand / AlgoKit / x402 hackathon at KLH Bachupally. Set up a full WSL2 AlgoKi
 
 <br>
 
-<img src="./assets/divider-research_status.svg" width="100%" alt="research status"/>
+## 🔬 Research Direction
 
-I want to be upfront about what stage this is at: **exploration and drafting**, not peer-reviewed output.
-
-- **Tensor-network compression for illumination-robust CV** — a research paper *concept* I'm developing, combining quantum-inspired tensor network compression (currently pivoted toward Tensor-Train/Ring methods) with computer vision robustness under variable lighting. Still shaping the framing, not written up.
-- **Review paper — "A Review of Technology Developments in Self-Evolving AI Agents"** — prepared for academic submission: structural editing, citation fixes, Springer Nature formatting. Submission-track, not a publication yet.
-- **DAS-HDPP** — a theoretical transformer-augmentation framework I sketched out, drawing from general relativity and nonlinear optics concepts. Early-stage and speculative — a thinking exercise, not a validated architecture.
-
-<br>
-
-<img src="./assets/divider-currently.svg" width="100%" alt="currently"/>
-
-Coursework and deliverables I'm actively grinding through: an **IoT project** (pivoted from STM32 Blue Pill to Industrial Sensor Monitoring with ESP32-S3, prototyping in Wokwi), **DSA-2 Java case studies**, an **ML course project** (multinomial logistic regression for match prediction), and a **multi-agent competitive resource-allocation game** built for a CFAI mini-project viva.
-
-I also run a personal multi-agent workflow — Claude, ChatGPT, Antigravity, and DeepSeek — where each tool is scoped to a specific role rather than used interchangeably.
-
-<br>
-
-<img src="./assets/divider-github_stats.svg" width="100%" alt="github stats"/>
+I'm progressively moving from *implementing existing techniques* → *reproducing research* → *designing my own experiments*. My long-term interest sits at the intersection of **AI, mathematics, and theoretical computer science** — with an eye on where quantum computing might eventually fit into that picture.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=venkataramavinaybandla-crypto&theme=tokyonight&hide_border=true&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkataramavinaybandla-crypto&theme=tokyonight&hide_border=true&layout=compact)
+```
+   Fundamentals  →  Implementation  →  Experimentation  →  Original Research
+   (Math + DSA)     (Real Projects)    (Reproducing Papers)   (Novel Ideas)
+        ✅                ✅                   🔄                  🎯
+```
+
+</div>
+
+<br>
+
+<details>
+<summary><b>🧭 My Approach — click to expand</b></summary>
+<br>
+
+I'm building a profile around three pillars, not a resume around buzzwords:
+
+1. **Strong fundamentals** — linear algebra, probability, statistics, algorithms, done properly.
+2. **Serious technical experimentation** — real, working systems over toy demos.
+3. **Research-oriented thinking** — studying papers, running experiments, and eventually contributing original ideas.
+
+My GitHub exists as **evidence of learning** — implementations, experiments, and projects that show the work, not just the outcome.
+
+</details>
+
+<br>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vinay&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay&layout=compact&theme=radical&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -117,8 +172,15 @@ I also run a personal multi-agent workflow — Claude, ChatGPT, Antigravity, and
 
 <div align="center">
 
-**→ [play with the live interactive version of this grid ↗](https://claude.ai/artifact/2rP2Je65vtNCJbhoZWSzPN)**
+### 📫 Let's Connect
 
-<sub>Undergrad years, spent building foundations — not shortcuts.</sub>
+*Always down to talk research, hard problems, or why your gradient just exploded.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+<br>
+
+<sub>⭐️ If any of this resonates — a star costs nothing and means a lot.</sub>
 
 </div>
